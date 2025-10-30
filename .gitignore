@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Archives or executables
+*.zip
+*.exe
+*.tar
+*.gz
+
+# Scratch project backups
+*.sb2
+*.sb3.backup
