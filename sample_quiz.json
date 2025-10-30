@@ -1,0 +1,35 @@
+{
+  "title": "General Knowledge",
+  "questions": [
+    {
+      "q": "What is the capital of France?",
+      "choices": [
+        "Paris",
+        "London",
+        "Rome",
+        "Berlin"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "2 + 2 = ?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "choices": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "answer": 1
+    }
+  ]
+}
